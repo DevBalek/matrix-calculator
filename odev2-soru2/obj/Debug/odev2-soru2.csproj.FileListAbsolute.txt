@@ -1,0 +1,10 @@
+C:\Users\balek\source\repos\odev2-soru2\bin\Debug\odev2-soru2.exe.config
+C:\Users\balek\source\repos\odev2-soru2\bin\Debug\odev2-soru2.exe
+C:\Users\balek\source\repos\odev2-soru2\bin\Debug\odev2-soru2.pdb
+C:\Users\balek\source\repos\odev2-soru2\obj\Debug\odev2-soru2.csprojAssemblyReference.cache
+C:\Users\balek\source\repos\odev2-soru2\obj\Debug\odev2_soru2.Form1.resources
+C:\Users\balek\source\repos\odev2-soru2\obj\Debug\odev2_soru2.Properties.Resources.resources
+C:\Users\balek\source\repos\odev2-soru2\obj\Debug\odev2-soru2.csproj.GenerateResource.cache
+C:\Users\balek\source\repos\odev2-soru2\obj\Debug\odev2-soru2.csproj.CoreCompileInputs.cache
+C:\Users\balek\source\repos\odev2-soru2\obj\Debug\odev2-soru2.exe
+C:\Users\balek\source\repos\odev2-soru2\obj\Debug\odev2-soru2.pdb
